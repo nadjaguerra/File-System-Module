@@ -1,0 +1,21 @@
+{
+  "name": "to-do-list.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./core/crud.js",
+    "dev": "nodemon ./core/crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadjaguerra/To_Do_List-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Projeto CRUD - TO DO LIST",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
