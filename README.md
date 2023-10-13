@@ -13,7 +13,7 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Em s
 1. Clone o repositório do GitHub:
 
    ```bash
-https://github.com/nadjaguerra/To-do-list
+   git clone https://github.com/nadjaguerra/To-do-list
 
 ##Instale as dependências de desenvolvimento:
 
