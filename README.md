@@ -19,14 +19,3 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Em s
 
 ```bash
  Copy code npm install
-
-3. Uso
-Para usar o projeto, você pode iniciar o servidor usando o seguinte comando:
-
-```bash
-Copy code npm start
-
-Este comando inicia o servidor, que está definido no arquivo core/crud.js.
-
-
-
