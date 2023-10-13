@@ -15,22 +15,21 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Em s
    ```bash
    git clone https://github.com/nadjaguerra/To-do-list
 
-##Instale as dependências de desenvolvimento:
+## Instale as dependências de desenvolvimento:
 
 
 ```bash
-npm install
+ Copy code npm install
 
 Uso
 Para usar o projeto, você pode iniciar o servidor usando o seguinte comando:
 
 ```bash
-npm start
+Copy code npm start
 
 Este comando inicia o servidor, que está definido no arquivo core/crud.js.
 
 ```bash
-
 
 
 Exemplo
