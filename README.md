@@ -15,13 +15,12 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Em s
    ```bash
    git clone https://github.com/nadjaguerra/To-do-list
 
-## Instale as dependências de desenvolvimento:
-
+2. Instale as dependências de desenvolvimento:
 
 ```bash
  Copy code npm install
 
-## Uso
+3. Uso
 Para usar o projeto, você pode iniciar o servidor usando o seguinte comando:
 
 ```bash
