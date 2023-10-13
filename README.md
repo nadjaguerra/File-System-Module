@@ -28,29 +28,5 @@ Copy code npm start
 
 Este comando inicia o servidor, que está definido no arquivo core/crud.js.
 
-```bash
-
-
-Exemplo
-Aqui está um exemplo de como criar uma nova tarefa usando o código que você forneceu:
-
-javascript
-Copy code
-const fs = require('fs');
-const DB_FILE_PATH = './core/db';
-
-function create(content) {
-  // Salvar o content no sistema
-  fs.writeFileSync(DB_FILE_PATH, content);
-  return content;
-}
-
-// Simulação
-console.log(create('Hello, Hello - nodemon'));
-Neste exemplo, a função create é usada para criar uma tarefa com o conteúdo "Hello, Hello - nodemon" e armazená-la no arquivo de banco de dados especificado em DB_FILE_PATH.
-
-
-
-
 
 
