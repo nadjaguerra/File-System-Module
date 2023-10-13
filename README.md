@@ -4,7 +4,10 @@ Esse projeto é uma demonstração básica de como criar um arquivo com conteúd
 
 ## Visão Geral
 
-File System Module é um projeto simples de CRUD (Create, Read, Update, Delete) para gerenciar listas de tarefas. Este projeto demonstra a criação de um arquivo de banco de dados que pode armazenar tarefas e permite a criação de novas tarefas.
+Este código é uma implementação de um mecanismo CRUD que se concentra apenas na operação de criação (Create).
+Ele requer o módulo 'fs' (File System) do Node.js para lidar com operações de sistema de arquivos. Em resumo, este código lê um conteúdo passado
+como argumento para a função create e o escreve de forma síncrona em um arquivo de banco de dados no caminho especificado.
+Neste exemplo, ele cria ou sobrescreve o arquivo "db".
 
 ## Instalação
 
