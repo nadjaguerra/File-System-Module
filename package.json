@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Projeto CRUD - TO DO LIST",
+  "description": "modulo fs - sistema de arquivos",
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
