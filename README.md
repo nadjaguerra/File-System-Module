@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Em s
 ```bash
  Copy code npm install
 
-Uso
+## Uso
 Para usar o projeto, você pode iniciar o servidor usando o seguinte comando:
 
 ```bash
